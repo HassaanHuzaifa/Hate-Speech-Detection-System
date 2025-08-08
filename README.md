@@ -1,4 +1,5 @@
-#Hate Speech Detection System
+# Hate Speech Detection System
+
 The term “hate speech” refers to any speech that disparages an individual or a group based on one or more characteristics, including race, color, ethnicity, gender, sexual orientation, nationality, religion, or another feature. The volume of hate speech is also steadily rising due to the enormous growth of user-generated web content, particularly on social media networks.
 
 As basic word filters do not adequately address this issue, it is necessary to do natural language processing that particularly targets it. The domain of a statement, its discourse context, as well as context made up of co-occurring media objects (such as images, videos, and audio), the precise time of posting and current global events, the identity of the author, and the identity of the targeted recipient, are the things that can have an impact on what is deemed to be hate speech.
