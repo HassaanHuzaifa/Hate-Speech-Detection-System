@@ -4,6 +4,7 @@ The term “hate speech” refers to any speech that disparages an individual or
 
 As basic word filters do not adequately address this issue, it is necessary to do natural language processing that particularly targets it. The domain of a statement, its discourse context, as well as context made up of co-occurring media objects (such as images, videos, and audio), the precise time of posting and current global events, the identity of the author, and the identity of the targeted recipient, are the things that can have an impact on what is deemed to be hate speech.
 
+
 Logistic Regression
 Logistic regression is a statistical model which can be used in this project. The algorithm’s output creates a probability value that may be transferred to two or more discrete classes.
 
